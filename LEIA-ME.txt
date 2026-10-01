@@ -1,0 +1,10 @@
+Encadernação 2027 — Página de venda (arquivos prontos para publicar)
+
+1. Coloque os arquivos desta pasta (index.html, favicon.ico, assets/, robots.txt)
+   na raiz do seu repositório no GitHub.
+2. Na Vercel, clique em "Add New..." > "Project" e selecione o repositório.
+3. Em "Framework Preset" escolha "Other" (site estático). Não precisa configurar mais nada.
+4. Clique em "Deploy".
+
+Pronto: a Vercel vai publicar exatamente os arquivos, sem precisar de build.
+Para atualizar depois: troque os arquivos no GitHub e a Vercel atualiza sozinha.
